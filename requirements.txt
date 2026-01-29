@@ -1,0 +1,5 @@
+tsplib95
+numpy
+matplotlib
+networkx
+pulp

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.11.12)  30 JAN 2026 00:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.11.12)  30 JAN 2026 14:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,20 +6,19 @@ entering extended mode
 **/home/octopus/Desktop/s/latex/m3.tex
 (/home/octopus/Desktop/s/latex/m3.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -31,31 +30,31 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks17
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
-\babel@savecnt=\count194
+\babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language87
  (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count195
+\bbl@dirlevel=\count194
  (/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2021/07/20 v3.5m French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language39). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
 (babel)             (\language39). Reported on input line 92.
-\FB@nonchar=\count196
+\FB@nonchar=\count195
 Package babel Info: Making : an active character on input line 430.
 Package babel Info: Making ; an active character on input line 431.
 Package babel Info: Making ! an active character on input line 432.
 Package babel Info: Making ? an active character on input line 433.
-\FBguill@level=\count197
+\FBguill@level=\count196
 \FBold@everypar=\toks18
 \FB@Mht=\dimen140
-\mc@charclass=\count198
-\mc@charfam=\count199
-\mc@charslot=\count266
-\std@mcc=\count267
-\dec@mcc=\count268
+\mc@charclass=\count197
+\mc@charfam=\count198
+\mc@charslot=\count199
+\std@mcc=\count266
+\dec@mcc=\count267
 \listindentFB=\dimen141
 \descindentFB=\dimen142
 \labelindentFB=\dimen143
@@ -73,9 +72,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count269
-\Gm@cntv=\count270
-\c@Gm@tempcnt=\count271
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
 \Gm@bindingoffset=\dimen148
 \Gm@wd@mp=\dimen149
 \Gm@odd@mp=\dimen150
@@ -123,17 +122,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
  (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count272
+\etb@tempcnta=\count271
 )
 \MT@toks=\toks21
-\MT@count=\count273
+\MT@count=\count272
 \MT@tempbox=\box50
 LaTeX Info: Redefining \leftprotrusion on input line 1010.
 LaTeX Info: Redefining \rightprotrusion on input line 1018.
 LaTeX Info: Redefining \textls on input line 1173.
 \MT@outer@kern=\dimen156
 LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
-\MT@listname@count=\count274
+\MT@listname@count=\count273
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 897.
@@ -159,8 +158,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen157
 \enit@toks=\toks22
 \enit@inbox=\box51
-\enit@count@id=\count275
-\enitdp@description=\count276
+\enit@count@id=\count274
+\enitdp@description=\count275
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip51
@@ -178,13 +177,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count277
+\inf@bad=\count276
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count278
-\leftroot@=\count279
+\uproot@=\count277
+\leftroot@=\count278
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count280
-\DOTSCASE@=\count281
+\classnum@=\count279
+\DOTSCASE@=\count280
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -193,15 +192,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen160
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count282
-\c@MaxMatrixCols=\count283
+\macc@depth=\count281
+\c@MaxMatrixCols=\count282
 \dotsspace@=\muskip16
-\c@parentequation=\count284
-\dspbrk@lvl=\count285
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
 \tag@help=\toks24
-\row@=\count286
-\column@=\count287
-\maxfields@=\count288
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
 \andhelp@=\toks25
 \eqnshift@=\dimen161
 \alignsep@=\dimen162
@@ -236,12 +235,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen174
 \cmidrulekern=\dimen175
 \defaultaddspace=\dimen176
-\@cmidla=\count289
-\@cmidlb=\count290
+\@cmidla=\count288
+\@cmidlb=\count289
 \@aboverulesep=\dimen177
 \@belowrulesep=\dimen178
-\@thisruleclass=\count291
-\@lastruleclass=\count292
+\@thisruleclass=\count290
+\@lastruleclass=\count291
 \@thisrulewidth=\dimen179
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -274,31 +273,33 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 Package caption Info: Standard document class detected.
 Package caption Info: french babel package is loaded.
 )
-\c@caption@flags=\count293
-\c@continuedfloat=\count294
+\c@caption@flags=\count292
+\c@continuedfloat=\count293
 )
-\c@subfigure=\count295
-\c@subtable=\count296
+\c@subfigure=\count294
+\c@subtable=\count295
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count297
+\c@float@type=\count296
 \float@exts=\toks28
 \float@box=\box54
 \@float@everytoks=\toks29
 \@floatcapt=\box55
+) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks30
-\c@algorithm=\count298
+\c@algorithm=\count297
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count299
-\c@ALC@line=\count300
-\c@ALC@rem=\count301
-\c@ALC@depth=\count302
+\c@ALC@unique=\count298
+\c@ALC@line=\count299
+\c@ALC@rem=\count300
+\c@ALC@depth=\count301
 \ALC@tlm=\skip54
 \algorithmicindent=\skip55
 ) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -338,8 +339,8 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen189
-\Hy@linkcounter=\count303
-\Hy@pagecounter=\count304
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -351,7 +352,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count305
+\Hy@SavedSpaceFactor=\count304
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -364,7 +365,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count306
+\c@Hy@tempcnt=\count305
  (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -376,7 +377,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count307
+\Fld@menulength=\count306
 \Field@Width=\dimen191
 \Fld@charsize=\dimen192
 Package hyperref Info: Hyper figures OFF on input line 6076.
@@ -392,9 +393,9 @@ LaTeX Info: Redefining \pageref on input line 6150.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count308
-\c@Item=\count309
-\c@Hfootnote=\count310
+\Hy@abspage=\count307
+\c@Item=\count308
+\c@Hfootnote=\count309
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -403,8 +404,8 @@ File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count311
-\c@bookmark@seq@number=\count312
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
  (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -414,7 +415,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip56
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
  (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip57
@@ -427,42 +428,42 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 \f@nch@O@olf=\skip64
 \f@nch@O@orf=\skip65
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 62.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count313
+\l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box56
 ) (./m3.aux)
 \openout1 = `m3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Info: Redefining \degres on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Info: Redefining \degres on input line 62.
 Package french.ldf Info: Setting StandardItemizeEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 58.
+(french.ldf)             reported on input line 62.
 Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
-(french.ldf)             reported on input line 58.
-LaTeX Info: Redefining \up on input line 58.
+(french.ldf)             reported on input line 62.
+LaTeX Info: Redefining \up on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -498,18 +499,18 @@ LaTeX Info: Redefining \up on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 58.
-Package microtype Info: Applying patch `item' on input line 58.
-Package microtype Info: Applying patch `toc' on input line 58.
-Package microtype Info: Applying patch `eqnum' on input line 58.
-Package microtype Info: Applying patch `footnote' on input line 58.
+LaTeX Info: Redefining \microtypecontext on input line 62.
+Package microtype Info: Applying patch `item' on input line 62.
+Package microtype Info: Applying patch `toc' on input line 62.
+Package microtype Info: Applying patch `eqnum' on input line 62.
+Package microtype Info: Applying patch `footnote' on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 58.
+LaTeX Info: Redefining \showhyphens on input line 62.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -517,16 +518,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 ) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count314
+\scratchcounter=\count313
 \scratchdimen=\dimen193
 \scratchbox=\box57
-\nofMPsegments=\count315
-\nofMParguments=\count316
+\nofMPsegments=\count314
+\nofMParguments=\count315
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count317
+\MPscratchCnt=\count316
 \MPscratchDim=\dimen194
-\MPnumerator=\count318
-\makeMPintoPDFobject=\count319
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -538,7 +539,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 58.
+Package hyperref Info: Link coloring ON on input line 62.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -546,64 +547,69 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count320
+\c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 58.
-LaTeX Info: Redefining \pageref on input line 58.
-LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
  (./m3.out) (./m3.out)
 \@outlinefile=\write3
 \openout3 = `m3.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 59.
-<img/logo_galilee.png, id=104, 455.7025pt x 111.41624pt>
-File: img/logo_galilee.png Graphic file (type png)
-<use img/logo_galilee.png>
-Package pdftex.def Info: img/logo_galilee.png  used on input line 63.
+Package hyperref Info: Option `pageanchor' set `false' on input line 63.
+<../img/logo_galilee.png, id=72, 455.7025pt x 111.41624pt>
+File: ../img/logo_galilee.png Graphic file (type png)
+<use ../img/logo_galilee.png>
+Package pdftex.def Info: ../img/logo_galilee.png  used on input line 67.
 (pdftex.def)             Requested size: 202.29758pt x 49.46191pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 64.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 68.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 64.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 68.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 64.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 68.
  (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 64.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 68.
  (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 64.
+(Font)              <10.95> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 64.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 64.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+(Font)              <6> on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-<img/logo_usp.png, id=105, 291.0875pt x 174.6525pt>
-File: img/logo_usp.png Graphic file (type png)
-<use img/logo_usp.png>
-Package pdftex.def Info: img/logo_usp.png  used on input line 68.
+<../img/logo_usp.png, id=73, 291.0875pt x 174.6525pt>
+File: ../img/logo_usp.png Graphic file (type png)
+<use ../img/logo_usp.png>
+Package pdftex.def Info: ../img/logo_usp.png  used on input line 72.
 (pdftex.def)             Requested size: 182.06657pt x 109.24281pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/logo_galilee.png> <./img/logo_usp.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 112.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../img/logo_galilee.png> <../img/logo_usp.png>] (./m3.toc)
+\tf@toc=\write4
+\openout4 = `m3.toc'.
+
+ [1]
+Package hyperref Info: Option `pageanchor' set `true' on input line 116.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 124.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -611,160 +617,128 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [1
-
-]
+<../img/schema_ring_star.png, id=106, 346.29375pt x 146.5475pt>
+File: ../img/schema_ring_star.png Graphic file (type png)
+<use ../img/schema_ring_star.png>
+Package pdftex.def Info: ../img/schema_ring_star.png  used on input line 143.
+(pdftex.def)             Requested size: 323.67886pt x 136.98094pt.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [2
-
-] (./m3.toc)
-\tf@toc=\write4
-\openout4 = `m3.toc'.
-
- [3
-
-] (./m3.lof)
-\tf@lof=\write5
-\openout5 = `m3.lof'.
-
- [4
-
-] (./m3.lot)
-\tf@lot=\write6
-\openout6 = `m3.lot'.
-
- [5
-
-]
-Package hyperref Info: Option `pageanchor' set `true' on input line 143.
-
-Chapitre 1.
-<img/schema_ring_star.png, id=193, 319.07205pt x 324.85365pt>
-File: img/schema_ring_star.png Graphic file (type png)
-<use img/schema_ring_star.png>
-Package pdftex.def Info: img/schema_ring_star.png  used on input line 168.
-(pdftex.def)             Requested size: 359.64394pt x 366.16827pt.
-<img/ulysses16.tsp_instance.png, id=196, 540.21825pt x 436.5108pt>
-File: img/ulysses16.tsp_instance.png Graphic file (type png)
-<use img/ulysses16.tsp_instance.png>
-Package pdftex.def Info: img/ulysses16.tsp_instance.png  used on input line 180.
+<../img/ulysses16.tsp_instance.png, id=108, 540.21825pt x 436.5108pt>
+File: ../img/ulysses16.tsp_instance.png Graphic file (type png)
+<use ../img/ulysses16.tsp_instance.png>
+Package pdftex.def Info: ../img/ulysses16.tsp_instance.png  used on input line 155.
 (pdftex.def)             Requested size: 215.78362pt x 174.36143pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 181.
+(Font)              <10> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 181.
+(Font)              <7> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 181.
-<img/eil51.tsp_instance.png, id=197, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_instance.png Graphic file (type png)
-<use img/eil51.tsp_instance.png>
-Package pdftex.def Info: img/eil51.tsp_instance.png  used on input line 185.
+(Font)              <5> on input line 156.
+<../img/eil51.tsp_instance.png, id=110, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_instance.png Graphic file (type png)
+<use ../img/eil51.tsp_instance.png>
+Package pdftex.def Info: ../img/eil51.tsp_instance.png  used on input line 160.
 (pdftex.def)             Requested size: 215.78362pt x 175.06079pt.
-[1
+ [1
 
-
-] [2 <./img/schema_ring_star.png> <./img/ulysses16.tsp_instance.png> <./img/eil51.tsp_instance.png>] [3]
-Chapitre 2.
-[4
-
-]
-Chapitre 3.
-[5
-
-] [6]
-Chapitre 4.
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 267.
-[7
-
-] [8]
-Chapitre 5.
-<img/eil51.tsp_gloutonne_p20.png, id=284, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_gloutonne_p20.png Graphic file (type png)
-<use img/eil51.tsp_gloutonne_p20.png>
-Package pdftex.def Info: img/eil51.tsp_gloutonne_p20.png  used on input line 331.
+ <../img/schema_ring_star.png>] [2 <../img/ulysses16.tsp_instance.png> <../img/eil51.tsp_instance.png>] [3]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 247.
+ [4]
+<../img/eil51.tsp_gloutonne_p20.png, id=177, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_gloutonne_p20.png Graphic file (type png)
+<use ../img/eil51.tsp_gloutonne_p20.png>
+Package pdftex.def Info: ../img/eil51.tsp_gloutonne_p20.png  used on input line 303.
 (pdftex.def)             Requested size: 215.78362pt x 175.06079pt.
-<img/eil51.tsp_descente_p20.png, id=285, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_descente_p20.png Graphic file (type png)
-<use img/eil51.tsp_descente_p20.png>
-Package pdftex.def Info: img/eil51.tsp_descente_p20.png  used on input line 336.
+<../img/eil51.tsp_descente_p20.png, id=178, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_descente_p20.png Graphic file (type png)
+<use ../img/eil51.tsp_descente_p20.png>
+Package pdftex.def Info: ../img/eil51.tsp_descente_p20.png  used on input line 308.
 (pdftex.def)             Requested size: 215.78362pt x 175.06079pt.
-[9
-
- <./img/eil51.tsp_gloutonne_p20.png> <./img/eil51.tsp_descente_p20.png>]
-<img/eil51.tsp_gloutonne_p8.png, id=294, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_gloutonne_p8.png Graphic file (type png)
-<use img/eil51.tsp_gloutonne_p8.png>
-Package pdftex.def Info: img/eil51.tsp_gloutonne_p8.png  used on input line 348.
+<../img/eil51.tsp_gloutonne_p8.png, id=180, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_gloutonne_p8.png Graphic file (type png)
+<use ../img/eil51.tsp_gloutonne_p8.png>
+Package pdftex.def Info: ../img/eil51.tsp_gloutonne_p8.png  used on input line 320.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
-<img/eil51.tsp_descente_p8.png, id=295, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_descente_p8.png Graphic file (type png)
-<use img/eil51.tsp_descente_p8.png>
-Package pdftex.def Info: img/eil51.tsp_descente_p8.png  used on input line 353.
+<../img/eil51.tsp_descente_p8.png, id=181, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_descente_p8.png Graphic file (type png)
+<use ../img/eil51.tsp_descente_p8.png>
+Package pdftex.def Info: ../img/eil51.tsp_descente_p8.png  used on input line 325.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
-<img/eil51.tsp_pulp_p8.png, id=296, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_pulp_p8.png Graphic file (type png)
-<use img/eil51.tsp_pulp_p8.png>
-Package pdftex.def Info: img/eil51.tsp_pulp_p8.png  used on input line 358.
+<../img/eil51.tsp_pulp_p8.png, id=182, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_pulp_p8.png Graphic file (type png)
+<use ../img/eil51.tsp_pulp_p8.png>
+Package pdftex.def Info: ../img/eil51.tsp_pulp_p8.png  used on input line 330.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
-<img/eil51.tsp_gloutonne_p41.png, id=297, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_gloutonne_p41.png Graphic file (type png)
-<use img/eil51.tsp_gloutonne_p41.png>
-Package pdftex.def Info: img/eil51.tsp_gloutonne_p41.png  used on input line 365.
+<../img/eil51.tsp_gloutonne_p41.png, id=183, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_gloutonne_p41.png Graphic file (type png)
+<use ../img/eil51.tsp_gloutonne_p41.png>
+Package pdftex.def Info: ../img/eil51.tsp_gloutonne_p41.png  used on input line 337.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
-<img/eil51.tsp_descente_p41.png, id=298, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_descente_p41.png Graphic file (type png)
-<use img/eil51.tsp_descente_p41.png>
-Package pdftex.def Info: img/eil51.tsp_descente_p41.png  used on input line 370.
+<../img/eil51.tsp_descente_p41.png, id=184, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_descente_p41.png Graphic file (type png)
+<use ../img/eil51.tsp_descente_p41.png>
+Package pdftex.def Info: ../img/eil51.tsp_descente_p41.png  used on input line 342.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
-<img/eil51.tsp_pulp_p41.png, id=299, 538.05016pt x 436.5108pt>
-File: img/eil51.tsp_pulp_p41.png Graphic file (type png)
-<use img/eil51.tsp_pulp_p41.png>
-Package pdftex.def Info: img/eil51.tsp_pulp_p41.png  used on input line 375.
+<../img/eil51.tsp_pulp_p41.png, id=185, 538.05016pt x 436.5108pt>
+File: ../img/eil51.tsp_pulp_p41.png Graphic file (type png)
+<use ../img/eil51.tsp_pulp_p41.png>
+Package pdftex.def Info: ../img/eil51.tsp_pulp_p41.png  used on input line 347.
 (pdftex.def)             Requested size: 143.86032pt x 116.7072pt.
- [10 <./img/eil51.tsp_gloutonne_p8.png> <./img/eil51.tsp_descente_p8.png> <./img/eil51.tsp_pulp_p8.png> <./img/eil51.tsp_gloutonne_p41.png> <./img/eil51.tsp_descente_p41.png> <./img/eil51.tsp_pulp_p41.png>]
-<img/comparaison_cout.png, id=314, 722.7pt x 433.62pt>
-File: img/comparaison_cout.png Graphic file (type png)
-<use img/comparaison_cout.png>
-Package pdftex.def Info: img/comparaison_cout.png  used on input line 441.
-(pdftex.def)             Requested size: 404.59515pt x 242.75937pt.
-<img/comparaison_temps.png, id=315, 722.7pt x 433.62pt>
-File: img/comparaison_temps.png Graphic file (type png)
-<use img/comparaison_temps.png>
-Package pdftex.def Info: img/comparaison_temps.png  used on input line 448.
-(pdftex.def)             Requested size: 404.59515pt x 242.75937pt.
-<img/ulysses16_time_vs_p.png, id=317, 578.16pt x 361.35pt>
-File: img/ulysses16_time_vs_p.png Graphic file (type png)
-<use img/ulysses16_time_vs_p.png>
-Package pdftex.def Info: img/ulysses16_time_vs_p.png  used on input line 459.
-(pdftex.def)             Requested size: 359.64394pt x 224.77353pt.
-<img/cbc_timeout_eil51_p21.png, id=319, 1823.81375pt x 737.75626pt>
-File: img/cbc_timeout_eil51_p21.png Graphic file (type png)
-<use img/cbc_timeout_eil51_p21.png>
-Package pdftex.def Info: img/cbc_timeout_eil51_p21.png  used on input line 468.
-(pdftex.def)             Requested size: 404.59515pt x 163.65775pt.
- [11 <./img/comparaison_cout.png>] [12 <./img/comparaison_temps.png> <./img/ulysses16_time_vs_p.png>] [13 <./img/cbc_timeout_eil51_p21.png>]
-Chapitre 6.
-[14
-
-] (./m3.aux)
+<../img/st70.tsp_gloutonne_p35.png, id=187, 547.0839pt x 436.5108pt>
+File: ../img/st70.tsp_gloutonne_p35.png Graphic file (type png)
+<use ../img/st70.tsp_gloutonne_p35.png>
+Package pdftex.def Info: ../img/st70.tsp_gloutonne_p35.png  used on input line 359.
+(pdftex.def)             Requested size: 143.86032pt x 114.78229pt.
+<../img/st70.tsp_descente_p35.png, id=188, 547.0839pt x 436.5108pt>
+File: ../img/st70.tsp_descente_p35.png Graphic file (type png)
+<use ../img/st70.tsp_descente_p35.png>
+Package pdftex.def Info: ../img/st70.tsp_descente_p35.png  used on input line 364.
+(pdftex.def)             Requested size: 143.86032pt x 114.78229pt.
+<../img/st70.tsp_pulp_p35.png, id=189, 547.0839pt x 436.5108pt>
+File: ../img/st70.tsp_pulp_p35.png Graphic file (type png)
+<use ../img/st70.tsp_pulp_p35.png>
+Package pdftex.def Info: ../img/st70.tsp_pulp_p35.png  used on input line 369.
+(pdftex.def)             Requested size: 143.86032pt x 114.78229pt.
+ [5] [6 <../img/eil51.tsp_gloutonne_p20.png> <../img/eil51.tsp_descente_p20.png> <../img/eil51.tsp_gloutonne_p8.png> <../img/eil51.tsp_descente_p8.png> <../img/eil51.tsp_pulp_p8.png> <../img/eil51.tsp_gloutonne_p41.png> <../img/eil51.tsp_descente_p41.png> <../img/eil51.tsp_pulp_p41.png> <../img/st70.tsp_gloutonne_p35.png> <../img/st70.tsp_descente_p35.png> <../img/st70.tsp_pulp_p35.png>] [7]
+<../img/comparaison_cout.png, id=239, 867.24pt x 433.62pt>
+File: ../img/comparaison_cout.png Graphic file (type png)
+<use ../img/comparaison_cout.png>
+Package pdftex.def Info: ../img/comparaison_cout.png  used on input line 462.
+(pdftex.def)             Requested size: 215.78362pt x 107.88864pt.
+<../img/comparaison_temps.png, id=240, 867.24pt x 433.62pt>
+File: ../img/comparaison_temps.png Graphic file (type png)
+<use ../img/comparaison_temps.png>
+Package pdftex.def Info: ../img/comparaison_temps.png  used on input line 467.
+(pdftex.def)             Requested size: 215.78362pt x 107.88864pt.
+<../img/ulysses16_time_vs_p.png, id=241, 505.89pt x 303.534pt>
+File: ../img/ulysses16_time_vs_p.png Graphic file (type png)
+<use ../img/ulysses16_time_vs_p.png>
+Package pdftex.def Info: ../img/ulysses16_time_vs_p.png  used on input line 480.
+(pdftex.def)             Requested size: 359.64394pt x 215.78853pt.
+<../img/p_vs_time_eil51_st70.png, id=243, 867.24pt x 361.35pt>
+File: ../img/p_vs_time_eil51_st70.png Graphic file (type png)
+<use ../img/p_vs_time_eil51_st70.png>
+Package pdftex.def Info: ../img/p_vs_time_eil51_st70.png  used on input line 489.
+(pdftex.def)             Requested size: 427.07419pt x 177.95076pt.
+ [8 <../img/comparaison_cout.png> <../img/comparaison_temps.png> <../img/ulysses16_time_vs_p.png>] [9 <../img/p_vs_time_eil51_st70.png>] (./m3.aux)
 Package rerunfilecheck Info: File `m3.out' has not changed.
-(rerunfilecheck)             Checksum: 5445C15FF72132DB8BFF556225A2A217;4605.
+(rerunfilecheck)             Checksum: 2C3EC488CB09532732699B5B2004DF86;3379.
  ) 
 Here is how much of TeX's memory you used:
- 17182 strings out of 478287
- 277858 string characters out of 5849288
- 625946 words of memory out of 5000000
- 34848 multiletter control sequences out of 15000+600000
- 551281 words of font info for 157 fonts, out of 8000000 for 9000
+ 17188 strings out of 478287
+ 279217 string characters out of 5849288
+ 636805 words of memory out of 5000000
+ 34853 multiletter control sequences out of 15000+600000
+ 545741 words of font info for 161 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,13n,77p,1176b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on m3.pdf (20 pages, 1579068 bytes).
+ 67i,11n,77p,1029b,835s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on m3.pdf (11 pages, 2112505 bytes).
 PDF statistics:
- 432 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
- 93 named destinations out of 1000 (max. 500000)
- 46366 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 42221 words of extra memory for PDF output out of 42996 (max. 10000000)
 

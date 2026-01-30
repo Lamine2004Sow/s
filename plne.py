@@ -94,7 +94,18 @@ def resoudrePlneCompacte(
     for i, j in aretes:
         modele += z[i][j] + z[j][i] <= (p - 1) * x[(i, j)]
 
-    solveur = pulp.PULP_CBC_CMD(msg=False)
+    for i, j in aretes:
+        modele += x[(i, j)] <= y[i][i]
+        modele += x[(i, j)] <= y[j][j]
+
+    for i in sommets:
+        modele += z[i][i] == 0
+
+
+    #solveur = pulp.PULP_CBC_CMD(msg=1)
+    solveur = pulp.CPLEX_CMD(msg=0)
+
+    
     statut = modele.solve(solveur)
     chaineStatut = pulp.LpStatus.get(statut, str(statut))
 
